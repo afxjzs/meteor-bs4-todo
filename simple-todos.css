@@ -1,0 +1,21 @@
+/* CSS declarations go here */
+
+body {
+  padding: 1em 0;
+  background: url(https://unsplash.it/1440/900?random) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+li.checked {
+  text-decoration: line-through;
+  font-style: italic;
+  color: #bbb;
+}
+
+.delete {
+  float: right;
+}
